@@ -22,7 +22,7 @@ class WelcomeScreen extends StatelessWidget {
                 const Icon(Icons.medical_services, size: 100, color: Colors.white),
                 const SizedBox(height: 20),
                 const Text(
-                  "MEDIC-APP",
+                  "Recupe'rart",
                   style: TextStyle(fontSize: 35, fontWeight: FontWeight.bold, color: Colors.white),
                 ),
                 const SizedBox(height: 50),

@@ -26,7 +26,7 @@ class _CitasScreenState extends State<CitasScreen> {
     if (mounted) {
       showDialog(
         context: context,
-        builder: (context) => const AlertDialog(title: Text("Éxito"), content: Text("Cita Guardada en Firebase")),
+        builder: (context) => const AlertDialog(title: Text("Éxito"), content: Text("Cita Guardada Correctamente")),
       );
     }
     _id.clear(); _especialidad.clear(); _dia.clear();

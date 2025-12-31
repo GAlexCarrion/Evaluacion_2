@@ -30,9 +30,6 @@ class WelcomeScreen extends StatelessWidget {
                 const SizedBox(height: 20),
                 _botonBienvenida(context, "REGISTRARSE", '/registro', Colors.transparent, Colors.white, outlined: true),
                 const SizedBox(height: 60),
-                // Datos del Desarrollador (Obligatorio en tu prueba)
-                Text("Desarrollado por: Tu Nombre", style: TextStyle(color: Colors.white.withOpacity(0.9))),
-                Text("GitHub: TuUsuarioGitHub", style: TextStyle(color: Colors.white.withOpacity(0.7))),
               ],
             ),
           ),

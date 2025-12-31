@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "1025432711667",
+    "firebase_url": "https://eva2-c65e2-default-rtdb.firebaseio.com",
+    "project_id": "eva2-c65e2",
+    "storage_bucket": "eva2-c65e2.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1025432711667:android:119a05bce0978495b7e286",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_1"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC-dhGxVozMcxAuJ1FcYhYAHHZY3cs3o1w"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
